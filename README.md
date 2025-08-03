@@ -6,7 +6,7 @@ Cada célula da grade representa um indivíduo, e a doença se propaga com base 
 
 ## 📄 Documento Explicativo
 
-> Para uma explicação teórica e detalhada do modelo, consulte o arquivo [Modelo_SEIR_Autômatos_Celulares_Pablo.docx](), incluído neste repositório.
+Para uma explicação teórica e detalhada do modelo, consulte o arquivo [Modelo_SEIR_Autômatos_Celulares_Pablo.docx](https://github.com/pablorenato1/Epidemio-e-Automatos-Celulares/blob/main/Modelo%20SEIR%20Aut%C3%B4matos%20Celulares%20-%20P%C3%A1blo%20Renato%20S%20Pereira.pdf), incluído neste repositório.
 
 ---
 
